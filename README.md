@@ -1,7 +1,7 @@
-# Quản Lý Điểm Sinh Viên
+# Quản Lý Trong trường đại học
 
 ## Giới Thiệu
-Dự án **Quản Lý Điểm Sinh Viên** là một hệ thống quản lý dành cho trường học hoặc cơ sở giáo dục. Hệ thống giúp quản lý thông tin sinh viên, giảng viên, môn học, lớp hành chính, lớp tín chỉ, và điểm số của sinh viên. Được phát triển bằng ngôn ngữ C# và kết nối với cơ sở dữ liệu SQL Server, hệ thống cung cấp các chức năng thêm, sửa, xóa dữ liệu một cách dễ dàng và hiệu quả.
+Dự án ** Quản Lý Trong trường đại học** là một hệ thống quản lý dành cho trường học hoặc cơ sở giáo dục. Hệ thống giúp quản lý thông tin sinh viên, giảng viên, môn học, lớp hành chính, lớp tín chỉ, và điểm số của sinh viên. Được phát triển bằng ngôn ngữ C# và kết nối với cơ sở dữ liệu SQL Server, hệ thống cung cấp các chức năng thêm, sửa, xóa dữ liệu một cách dễ dàng và hiệu quả.
 
 ## Tính Năng
 - **Quản lý Sinh viên**: Thêm mới, sửa thông tin, và xóa sinh viên khỏi hệ thống.
