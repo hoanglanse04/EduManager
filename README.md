@@ -22,7 +22,7 @@ Dự án **Quản Lý Điểm Sinh Viên** là một hệ thống quản lý dà
   - Các package khác liên quan (nếu có)
 ## Ảnh minh họa
 
-![Sinh Viên](./anh-demo/Sinhvien.png)
+![Sinh Viên](./anh-demo/SinhVien.png)
 
 ![Giảng Viên](./anh-demo/GiangVien.png)
 
